@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="2.0">
+    <mapID target="appwithhelp.about" url="content/appwithhelp-about.html"/>
+    <mapID target="appwithhelp.ujjatek" url="content/appwithhelp-ujjatek.html"/>
+        <mapID target="appwithhelp.kezeles" url="content/appwithhelp-kezeles.html"/>
+            <mapID target="appwithhelp.rekordok" url="content/appwithhelp-rekordok.html"/>
+</map>
